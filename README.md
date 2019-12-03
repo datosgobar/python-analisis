@@ -8,9 +8,9 @@ Para poder correr los ejemplos es necesario instalar Jupyter (https://jupyter.or
 
 ## Tabla de Contenidos
 
-1. **Clase 1 - Introducción a Jupyter** 
-1. **Clase 2 - Manejo básico de datos**
-1. **Clase 3 - Series temporales**
-1. **Clase 4 - Estadísticas sumarias**
-1. **Clase 5 - Datos geográficos**
-1. **Clase 6 - Ejemplos de machine learning**
+- **Clase 1 - Introducción a Jupyter** 
+- **Clase 2 - Manejo básico de datos**
+- **Clase 3 - Series temporales**
+- **Clase 4 - Estadísticas sumarias**
+- **Clase 5 - Datos geográficos**
+- **Clase 6 - Ejemplos de machine learning**
